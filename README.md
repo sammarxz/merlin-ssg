@@ -5,7 +5,7 @@ A blazingly fast Static Site Generator written in Vala.
 ## Features (TODO)
 
 Core:
-- [ ] Command line interface with basic commands (build, serve, new)
+- [x] Command line interface with basic commands (build, serve, new)
 - [ ] Parse content directory structure
 - [ ] Markdown to HTML conversion
 - [ ] Support for front matter (YAML)
